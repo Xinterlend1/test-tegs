@@ -1,0 +1,14 @@
+{
+  "name": "xinterlend/test-tags",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Xinter",
+      "email": "zelencov.e@effective-group.ru"
+    }
+  ],
+  "require": {
+  }
+}
